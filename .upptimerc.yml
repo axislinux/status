@@ -1,12 +1,23 @@
 owner: axislinux
 repo: status
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 sites:
   - name: Axis Linux
     url: https://axislinux.org
+    icon: https://axislinux.org/img/favicon/favicon.ico
   - name: Axis Linux Docs
     url: https://docs.axislinux.org
+    icon: https://docs.axislinux.org/img/favicon/favicon.ico
   - name: Axis Linux Status
     url: https://status.axislinux.org
+    icon: https://status.axislinux.org/img/favicon/favicon.ico
   - name: Axis Linux Repo
     url: https://repo.axislinux.org
+    icon: https://axislinux.org/img/favicon/favicon.ico
+    
+assignees:
+  - XXCoreRangerX
