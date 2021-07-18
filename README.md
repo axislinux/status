@@ -12,6 +12,8 @@
   <img alt="Summary CI" src="https://img.shields.io/github/workflow/status/axislinux/status/Summary%20CI?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Summary%20CI"/>
 </p>
   
+---
+  
 # [Live Status](https://status.axislinux.org): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
