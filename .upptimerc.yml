@@ -5,6 +5,10 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
+commitMessages:
+  commitAuthorName: "Axis Linux Bot"
+  commitAuthorEmail: "mail@axislinux.org"
+
 sites:
   - name: Axis Linux
     url: https://axislinux.org
