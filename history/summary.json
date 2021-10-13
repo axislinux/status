@@ -5,18 +5,18 @@
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 792,
     "timeDay": 767,
     "timeWeek": 784,
     "timeMonth": 866,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2021-10-13": 2
+      "2021-10-13": 52
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 675,
     "timeDay": 516,
     "timeWeek": 627,
     "timeMonth": 678,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2021-10-13": 1
+      "2021-10-13": 52
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://status.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-status",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.91%",
     "time": 674,
     "timeDay": 839,
     "timeWeek": 686,
     "timeMonth": 708,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2021-10-13": 1,
+      "2021-10-13": 51,
       "2021-07-18": 55
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://repo.axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-repo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 329,
-    "timeWeek": 321,
-    "timeMonth": 371,
-    "timeYear": 333,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
+    "time": 338,
+    "timeDay": 571,
+    "timeWeek": 383,
+    "timeMonth": 385,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 51
     }
   }
 ]
