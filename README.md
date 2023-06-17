@@ -7,10 +7,10 @@
 <h4 align="center">This repository contains the open-source uptime monitor for Axis Linux, powered by <a href="https://github.com/upptime/upptime">Upptime</a>.</h4>
 
 <p align=center>
-  <img alt="Uptime CI" src="https://img.shields.io/github/workflow/status/axislinux/status/Uptime%20CI?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Uptime%20CI"/>
-  <img alt="Response Time CI" src="https://img.shields.io/github/workflow/status/axislinux/status/Response%20Time%20CI?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Response%20Time%20CI"/>
-  <img alt="Graphs CI" src="https://img.shields.io/github/workflow/status/axislinux/status/Graphs%20CI?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Graphs%20CI"/>
-  <img alt="Summary CI" src="https://img.shields.io/github/workflow/status/axislinux/status/Summary%20CI?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Summary%20CI"/>
+  <img alt="Uptime CI" src="https://img.shields.io/github/actions/workflow/status/axislinux/status/uptime.yml?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Uptime%20CI"/>
+  <img alt="Response Time CI" src="https://img.shields.io/github/actions/workflow/status/axislinux/status/response-time.yml?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Response%20Time%20CI"/>
+  <img alt="Graphs CI" src="https://img.shields.io/github/actions/workflow/status/axislinux/status/graphs.yml?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Graphs%20CI"/>
+  <img alt="Summary CI" src="https://img.shields.io/github/actions/workflow/status/axislinux/status/summary.yml?logo=github&logoColor=%23ECEFF4&colorA=222326&style=for-the-badge&label=Summary%20CI"/>
 </p>
   
 ---
