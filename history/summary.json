@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 796,
-    "timeDay": 810,
-    "timeWeek": 688,
-    "timeMonth": 713,
-    "timeYear": 734,
+    "timeDay": 600,
+    "timeWeek": 684,
+    "timeMonth": 709,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2023-03-06": 75,
       "2023-02-26": 19
@@ -27,17 +27,16 @@
     "slug": "axis-linux-docs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 688,
-    "timeDay": 569,
-    "timeWeek": 604,
-    "timeMonth": 612,
-    "timeYear": 686,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 687,
+    "timeDay": 549,
+    "timeWeek": 595,
+    "timeMonth": 610,
+    "timeYear": 685,
     "dailyMinutesDown": {
-      "2023-07-31": 11,
       "2023-02-26": 19
     }
   },
@@ -53,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
-    "timeDay": 670,
-    "timeWeek": 562,
-    "timeMonth": 582,
-    "timeYear": 606,
+    "timeDay": 508,
+    "timeWeek": 546,
+    "timeMonth": 583,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2023-02-26": 19
     }
@@ -73,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 224,
-    "timeWeek": 271,
-    "timeMonth": 291,
-    "timeYear": 308,
+    "timeDay": 112,
+    "timeWeek": 219,
+    "timeMonth": 281,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2023-02-26": 18,
       "2022-09-15": 58
