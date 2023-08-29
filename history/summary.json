@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 740,
-    "timeDay": 611,
-    "timeWeek": 706,
-    "timeMonth": 689,
+    "timeDay": 798,
+    "timeWeek": 734,
+    "timeMonth": 692,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-03-06": 75,
@@ -26,16 +26,16 @@
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 691,
-    "timeWeek": 579,
-    "timeMonth": 592,
-    "timeYear": 678,
+    "timeDay": 464,
+    "timeWeek": 568,
+    "timeMonth": 591,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2023-02-26": 19
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 563,
-    "timeWeek": 649,
-    "timeMonth": 589,
+    "timeDay": 823,
+    "timeWeek": 691,
+    "timeMonth": 599,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2023-02-26": 19
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 315,
-    "timeDay": 241,
-    "timeWeek": 285,
-    "timeMonth": 300,
-    "timeYear": 307,
+    "timeDay": 332,
+    "timeWeek": 293,
+    "timeMonth": 304,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-02-26": 18,
       "2022-09-15": 58
