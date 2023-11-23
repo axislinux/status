@@ -25,10 +25,10 @@
     "url": "https://docs.axislinux.org",
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
@@ -37,6 +37,7 @@
     "timeMonth": 587,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2023-11-23": 1,
       "2023-02-26": 19
     }
   },
