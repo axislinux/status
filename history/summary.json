@@ -40,19 +40,19 @@
     "url": "https://status.axislinux.org",
     "icon": "https://status.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 798,
-    "timeWeek": 676,
-    "timeMonth": 581,
+    "timeDay": 657,
+    "timeWeek": 656,
+    "timeMonth": 579,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 8
     }
   },
   {
