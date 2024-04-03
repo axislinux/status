@@ -4,19 +4,19 @@
     "url": "https://axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 783,
-    "timeDay": 587,
-    "timeWeek": 646,
-    "timeMonth": 710,
+    "timeDay": 585,
+    "timeWeek": 638,
+    "timeMonth": 706,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2024-04-03": 1
+      "2024-04-03": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.axislinux.org",
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 604,
-    "timeWeek": 761,
-    "timeMonth": 661,
-    "timeYear": 615,
+    "time": 666,
+    "timeDay": 529,
+    "timeWeek": 723,
+    "timeMonth": 654,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2024-04-03": 1
+      "2024-04-03": 10
     }
   },
   {
