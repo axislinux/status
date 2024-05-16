@@ -4,54 +4,60 @@
     "url": "https://axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 600,
-    "timeWeek": 798,
-    "timeMonth": 738,
+    "timeDay": 685,
+    "timeWeek": 794,
+    "timeMonth": 739,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Axis Linux Docs",
     "url": "https://docs.axislinux.org",
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 514,
-    "timeWeek": 719,
-    "timeMonth": 627,
+    "timeDay": 633,
+    "timeWeek": 723,
+    "timeMonth": 631,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Axis Linux Status",
     "url": "https://status.axislinux.org",
     "icon": "https://status.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 457,
-    "timeWeek": 732,
+    "timeDay": 546,
+    "timeWeek": 720,
     "timeMonth": 638,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Axis Linux Repo",
