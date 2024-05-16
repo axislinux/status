@@ -4,19 +4,19 @@
     "url": "https://axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 775,
-    "timeDay": 685,
-    "timeWeek": 794,
-    "timeMonth": 739,
+    "timeDay": 654,
+    "timeWeek": 772,
+    "timeMonth": 734,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 59
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.axislinux.org",
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 610,
-    "timeDay": 633,
-    "timeWeek": 723,
-    "timeMonth": 631,
+    "timeDay": 592,
+    "timeWeek": 699,
+    "timeMonth": 627,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 59
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://status.axislinux.org",
     "icon": "https://status.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 546,
-    "timeWeek": 720,
-    "timeMonth": 638,
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 610,
+    "timeDay": 534,
+    "timeWeek": 697,
+    "timeMonth": 634,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 59
     }
   },
   {
