@@ -1,7 +1,7 @@
 url: https://status.axislinux.org
-status: down
-code: 503
-responseTime: 635
-lastUpdated: 2024-05-16T21:50:07.577Z
+status: up
+code: 200
+responseTime: 511
+lastUpdated: 2024-05-16T22:49:23.760Z
 startTime: 2021-07-18T17:02:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
