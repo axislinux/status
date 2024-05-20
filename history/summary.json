@@ -5,15 +5,15 @@
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 775,
-    "timeDay": 597,
-    "timeWeek": 702,
-    "timeMonth": 735,
+    "timeDay": 692,
+    "timeWeek": 660,
+    "timeMonth": 739,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2024-05-16": 59
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 611,
-    "timeDay": 595,
-    "timeWeek": 627,
-    "timeMonth": 627,
-    "timeYear": 619,
+    "time": 610,
+    "timeDay": 454,
+    "timeWeek": 592,
+    "timeMonth": 625,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2024-05-16": 59
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 610,
-    "timeDay": 467,
-    "timeWeek": 621,
-    "timeMonth": 637,
+    "timeDay": 451,
+    "timeWeek": 570,
+    "timeMonth": 639,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2024-05-16": 59
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 147,
-    "timeWeek": 290,
-    "timeMonth": 313,
+    "time": 299,
+    "timeDay": 235,
+    "timeWeek": 283,
+    "timeMonth": 308,
     "timeYear": 297,
     "dailyMinutesDown": {}
   }
