@@ -44,18 +44,19 @@
     "url": "https://status.axislinux.org",
     "icon": "https://status.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 610,
+    "time": 611,
     "timeDay": 639,
     "timeWeek": 651,
     "timeMonth": 652,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2024-06-05": 0,
       "2024-05-16": 59
     }
   },
