@@ -4,11 +4,11 @@
     "url": "https://axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 755,
     "timeDay": 572,
@@ -16,6 +16,7 @@
     "timeMonth": 745,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2025-05-04": 2,
       "2024-05-16": 59
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://docs.axislinux.org",
     "icon": "https://docs.axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 650,
@@ -36,6 +37,7 @@
     "timeMonth": 659,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2025-05-04": 1,
       "2024-05-16": 59
     }
   },
