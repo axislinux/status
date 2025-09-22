@@ -65,9 +65,9 @@
     "url": "https://repo.axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 458,
     "timeMonth": 375,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   }
 ]
