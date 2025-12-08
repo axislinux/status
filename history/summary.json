@@ -4,7 +4,7 @@
     "url": "https://axislinux.org",
     "icon": "https://axislinux.org/img/favicon/favicon.ico",
     "slug": "axis-linux",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "94.97%",
     "uptimeWeek": "99.28%",
@@ -14,7 +14,7 @@
     "timeDay": 976,
     "timeWeek": 846,
     "timeMonth": 794,
-    "timeYear": 764,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-12-08": 72,
       "2025-11-28": 16,
